@@ -2,7 +2,7 @@
   <img src="https://pic.yupi.icu/1/vibe%252520coding%252520show%2525E5%2525A4%2525A7-20260113165845170.jpeg" alt="Vibe Coding" width="600"/>
 
 <!-- github-global:langs:start -->
-[English](./translations/en/README.md) | [繁體中文](./translations/zh-TW/README.md) | [日本語](./translations/ja/README.md)
+[English](./translations/en/README.md) | [繁體中文](./translations/zh-TW/README.md)
 <!-- github-global:langs:end -->
 
 </p>
